@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "spring-boot-modernizer": {
+      "command": "python",
+      "args": ["-m", "mcp_server.server"],
+      "cwd": "C:\\Users\\prade\\OneDrive\\Documents\\Learning\\MCP\\modernization"
+    }
+  }
+}
